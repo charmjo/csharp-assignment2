@@ -1,0 +1,42 @@
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfo.cs
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\bin\Debug\net7.0\Assignment2.exe
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\bin\Debug\net7.0\Assignment2.deps.json
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\bin\Debug\net7.0\Assignment2.runtimeconfig.json
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\bin\Debug\net7.0\Assignment2.dll
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\bin\Debug\net7.0\Assignment2.pdb
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.dll
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\refint\Assignment2.dll
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.pdb
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.genruntimeconfig.cache
+C:\Users\Charmjo\Documents\Conestoga\MSD\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\ref\Assignment2.dll
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\bin\Debug\net7.0\Assignment2.exe
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\bin\Debug\net7.0\Assignment2.deps.json
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\bin\Debug\net7.0\Assignment2.runtimeconfig.json
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\bin\Debug\net7.0\Assignment2.dll
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\bin\Debug\net7.0\Assignment2.pdb
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfo.cs
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.dll
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\refint\Assignment2.dll
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.pdb
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\Assignment2.genruntimeconfig.cache
+C:\Users\Charmjo\Documents\Conestoga\MSD\Relator_PROG8146_SoftwareDev\PROG8146 - Software Development Techniques\Assignments\Assignment2\obj\Debug\net7.0\ref\Assignment2.dll
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\bin\Debug\net7.0\Assignment2.exe
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\bin\Debug\net7.0\Assignment2.deps.json
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\bin\Debug\net7.0\Assignment2.runtimeconfig.json
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\bin\Debug\net7.0\Assignment2.dll
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\bin\Debug\net7.0\Assignment2.pdb
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\obj\Debug\net7.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfo.cs
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\obj\Debug\net7.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\obj\Debug\net7.0\Assignment2.dll
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\obj\Debug\net7.0\refint\Assignment2.dll
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\obj\Debug\net7.0\Assignment2.pdb
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\obj\Debug\net7.0\Assignment2.genruntimeconfig.cache
+C:\Users\Charmjo\Documents\Conestoga\MSD\Classwork to Showcase\csharp-assignment2\Assignment2\obj\Debug\net7.0\ref\Assignment2.dll
